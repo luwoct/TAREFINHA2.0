@@ -209,9 +209,10 @@
     </div>
 
     <!-- Link para redirecionar o usuário para a tela de autenticação -->
-    <a href="cadastro.jsp" class="link-login">Voltar ao Login</a>
+    <a href="index.jsp" class="link-login">Voltar ao Login</a>
 </div>
 
 </body>
 
 </html>
+
